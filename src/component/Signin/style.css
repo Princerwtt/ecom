@@ -1,0 +1,16 @@
+.container{
+    width: 100vh;
+    height: 60vh;
+    background-color: white;
+    text-align: center;
+}
+
+
+#container-one{
+    width: 300px;
+    position: relative;
+    top: 100px;
+    left: 25%;
+    display: grid;
+    grid-gap: 1rem;
+}

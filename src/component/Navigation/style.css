@@ -1,0 +1,140 @@
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+button{
+    background-color: white;
+}
+#account{
+    background-color: burlywood;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.nav-btn-logo{
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+    transition: 0.4s;
+    font-weight: bolder;
+}
+.nav-btn-logo:hover{
+    transform: scale(1.1);
+}
+.nav-btn-men{
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}
+.nav-btn-men:hover{
+    border: 3px brown solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.nav-btn-women{
+    font-weight: bold;
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-women:hover{
+    border: 3px pink solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.nav-btn-kids{
+    font-weight: bold;
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-kids:hover{
+    border: 3px orangered solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.nav-btn-hm{
+    font-weight: bold;
+    width: 8.5rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-hm:hover{
+    border: 3px yellow solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.nav-btn-beauty{
+    font-weight: bold;
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-beauty:hover{
+    border: 3px aqua solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.nav-btn-studio{
+    font-weight: bold;
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-studio:hover{
+    border: 3px crimson solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+sup{
+    color: red;
+}
+#searchbar{
+    margin: 10px 0px;
+}
+.nav-btn-account{
+    font-weight: bold;
+    width: 5.5rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-account:hover{
+    border: 3px navy solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.nav-btn-cart{
+    font-weight: bold;
+    width: 5.3rem;
+    height: 3.4rem;
+    text-align: center;
+    border: none;
+}
+.nav-btn-cart:hover{
+    border: 3px red solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
